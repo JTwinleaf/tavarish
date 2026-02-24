@@ -9,3 +9,15 @@ The idea is a convention badge sized device that will house a passive BLE chip t
 
 ## That sounds interesting, but are you going to finish it or is it going to rot on the vine like your other projects?
 Well isn't that a bit rude of you to say? But yes I am really bad about completing projects on time or at all, hence the answer to your first question. That will have to be a question answered with time, but I have something on my side that I haven't had before... MEDICATION!
+
+# Avatar Data Structure
+I am going to give each value a byte of data. Data structure listed here:
+| Byte | Attribute | Notes |
+|------|-----------|-------|
+| 0 | Face Shape | 0 = Circle, 1 = Square, etc... |
+| 1 | Head Color | 256 colors will be enough. Period |
+| 2 | Facial Features | This will allow for combinations of eyes and mouths, maybe noses if I get that detailed |
+| 3 | Eye Color | Same as before, 256 colors |
+| 4 | Background Color | If you can understand patterns you'll understand what the answer for this one is... |
+| 5 | Hat/Hair | Fancy hats, no loot crates required. |
+| 6 | Companion | Because sometimes you just need a little buddy. |
