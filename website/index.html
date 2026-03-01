@@ -1,4 +1,144 @@
 <!DOCTYPE html>
-<html lang="en">
-    
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>It is not ready yet, tavarish.</title>
+    <meta charset="UTF-8">
+
+    <style>
+
+    body {
+      background-color: var(--pravda-white);
+      color: var(--harvest-gold);
+      font-family: "Courier New", monospace;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+
+    hr {
+      border: 2px solid var(--soviet-orange);
+      width: 80%;
+    }
+
+    h1 {
+      font-size: 64px;
+      color: var(--kremlin-red);
+      text-shadow: 3px 3px var(--aeroflot-sky);  /* Shadow uses main text color */
+      letter-spacing: 8px;
+      margin-bottom: 0;
+    }
+
+    h2 {
+      font-size: 18px;
+      color: var(--october-crimson);
+      letter-spacing: 4px;
+      margin-top: 5px;
+    }
+
+    .blink {
+      animation: blink-animation 1s step-end infinite;
+      color: var(--vanguard-red);
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    @keyframes blink-animation {
+      0%   { opacity: 1; }
+      50%  { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    .box {
+      border: 3px double var(--);
+      width: 600px;
+      margin: 30px auto;
+      padding: 30px;
+      background-color: var(--tractor-brown);
+    }
+
+    .description {
+      font-size: 15px;
+      line-height: 2;
+      color: var(--wheat);
+      font-style: italic;
+      border-left: 3px solid var(--harvest-gold);
+      text-align: left;
+      padding-left: 15px;
+      margin: 20px 10px;
+    }
+
+    .progress-track {
+      background-color: var(--pravda-white);
+      border: 2px solid var(--kremlin-red);
+      height: 20px;
+      width: 80%;
+      margin: 10px auto;
+    }
+
+    .progress-fill {
+      background-color: var(--propaganda-yellow);
+      height: 100%;
+      width: 73%;
+    }
+
+    .footer {
+      font-size: 11px;
+      color: var(--);
+      margin-top: 40px;
+    }
+
+    .stars {
+      font-size: 24px;
+      color: var(--vanguard-red);
+      letter-spacing: 10px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <p class="blink">★ UNDER CONSTRUCTION ★</p>
+
+  <hr>
+
+  <h1>TAVARISH</h1>
+  <h2>товарищ</h2>
+
+  <hr>
+
+  <div class="box">
+
+    <div class="stars">★ ★ ★</div>
+
+    <p class="description">
+      Two strangers cross paths in a convention hall, on a city street,
+      at a coffee shop at 2am — and never know it.<br><br>
+      Tavarish is a small device that notices for you.<br><br>
+      No feeds. No followers. No performance.<br>
+      Just the quiet record of who shared your world.
+    </p>
+
+    <div class="stars">★ ★ ★</div>
+
+    <hr>
+
+    <p>[ BUILD PROGRESS ]</p>
+
+    <div class="progress-track">
+      <div class="progress-fill"></div>
+    </div>
+
+    <p>73% COMPLETE</p>
+
+  </div>
+
+  <p class="footer">
+    &copy; 2026 TAVARISH.NET &nbsp;·&nbsp; SOMETHING IS COMING
+  </p>
+
+</body>
+
 </html>

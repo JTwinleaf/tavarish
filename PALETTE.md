@@ -19,16 +19,16 @@ This palette is derived from classic Soviet propaganda posters and forms the off
 | 7 | **Wheat** | `#D4B483` | Muted straw, lighter backgrounds |
 | 8 | **Propaganda Yellow** | `#F5D020` | Bright saturated yellow |
 | 9 | **Sunburst Cream** | `#F7E8A0` | Pale warm yellow, highlight areas |
-| 10 | **Sputnik Blue** | `#1A3A6B` | Deep cobalt, space posters |
+| 10 | **Kamchatka Blue** | `#1A3A6B` | Deep cobalt, deep waters |
 | 11 | **Cosmonaut Blue** | `#2B5FA5` | Mid cobalt blue |
-| 12 | **Gagarin Sky** | `#4A90D9` | Bright sky blue |
+| 12 | **Aeroflot Sky** | `#4A90D9` | Bright sky blue |
 | 13 | **Space Black** | `#0D1B2A` | Near black with blue undertone |
 | 14 | **Tractor Brown** | `#6B4226` | Warm dark brown |
 | 15 | **Earth Tan** | `#A07850` | Muted mid brown, skin tones |
 | 16 | **Steppe Khaki** | `#8B8040` | Muted olive, military undertone |
 | 17 | **Iron Grey** | `#5A5A5A` | Neutral mid grey |
-| 18 | **Steel** | `#8A9BA8` | Cool light grey, machinery |
-| 19 | **Proletariat Green** | `#2D6A2D` | Deep forest green, rare accent |
+| 18 | **Soviet Steel** | `#8A9BA8` | Cool light grey, machinery |
+| 19 | **Kapital Green** | `#2D6A2D` | Deep forest green, rare accent |
 
 ---
 
